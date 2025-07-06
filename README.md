@@ -30,14 +30,5 @@ We use the following Chrome permissions solely for core features:
 - **No third-party access**
 
 Everything stays on your machine.
-
-## 📬 Contact
-
-If you have any questions about this privacy policy or the extension, feel free to reach out:
-
-📧 [your-email@example.com]  
-🔗 [https://github.com/yourusername/snoozetab](https://github.com/yourusername/snoozetab)
-
 ---
-
-_Last updated: [Insert date]_
+---
